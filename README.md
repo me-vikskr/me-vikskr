@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vikash Kumar
 - 👀 I’m interested in webdev
-- 🌱 I’m currently learning JS
 - 📫 How to reach me: vikashkr.bes33@gmail.com
 
 <!---
